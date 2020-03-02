@@ -1,0 +1,24 @@
+body {
+		background-color:#258226f7;
+}
+.label {
+		text-align:center;
+		color:White;
+}	
+.form-control {
+		border-radius:50px;
+		border-bottom:1px solid black;
+		border-top:1px solid black;
+		border-left:4px solid red;
+		border-right:4px solid red;
+}
+.form-group:hover{
+		background-color:#00ff5af7;
+}
+.btn {
+		border-radius:50px;
+}
+.or {
+		border-top:1px solid white;
+		margin-top:20px;
+}

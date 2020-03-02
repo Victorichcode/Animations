@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+background:url(heart.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+}
+#size {
+	font-size:90px;
+}
+div#signup {
+background-color:white;
+width:300px;
+height:450px;
+margin:auto;
+border-radius: 18px;
+border:30px solid #FFF;
+}
+div#logging {
+text-align:center;
+background-color:white;
+width:300px;
+height:250px;
+margin:auto;
+border-radius: 18px;
+border:30px solid #FFF;
+}
+#textbar{
+width: 100%;
+height: 40px;
+margin: 10px auto;
+border: 2px solid #6FF;
+padding-left: 10px;
+border-radius: 18px;
+background-color: transparent;
+box-shadow: 0px 0px 3px 0px #000000c4;
+}
+.clearall,.register{
+			width: 36%;
+			background-color: white;
+			margin-left: 2%;
+			margin-right: 2%;
+			height: 35px;
+			line-height: 35px;
+			border:2px solid #6FF;
+			border-radius: 15px;
+     font-size: 14px;
+			color:black;
+			margin-top: 15px;
+		}
+.clearall{
+float: left;
+}
+.register{
+	float:right;
+}
+.file{
+float:right;
+width: 70%;
+height: 40px;
+margin: 10px auto;
+border:2px solid #6FF;
+border-radius: 18px;
+	cursor:pointer;
+background-color: transparent;
+}

@@ -1,0 +1,32 @@
+
+.img {
+		background-image: url('the-device-1822457_1920.jpg');
+		background-position:static;
+		background-size:cover;
+}
+.img2 {
+		background-image: url('the-device-1822457_1920.jpg');
+		background-position:static;
+		background-size:cover;
+}
+.h3:hover {
+		background-color:#00baa6;
+}
+		a:hover not(.c4) {
+		text-decoration:none;
+		color:orange;
+}
+.c4:hover {
+	text-decoration:none;
+	color:white;
+}
+.fa-heatbeat {
+	position:absolute;
+	left:50%;
+	right:50%;
+}
+.card {
+	justify-content:center;
+	z-index:-1;
+	filter:blur(40px)
+}

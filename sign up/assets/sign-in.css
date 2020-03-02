@@ -1,0 +1,21 @@
+body {
+	background:#f56008f7
+}
+.label {
+		text-align:center;
+		color:White;
+}	
+.form-control {
+		border-radius:50px;
+}
+.container {
+		width:800px;
+		margin-top: 100px;
+}
+.label a{
+		text-align:center;
+		color:#1dff02f7;
+}
+.label a:hover{
+		text-decoration:none;
+}
